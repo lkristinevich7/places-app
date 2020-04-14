@@ -8,6 +8,7 @@ import './MainNavigation.css';
 
 const MainNavigation = props => {
   const [drawerIsOpen, setDrawerIsOpen] = useState(false);
+  // console.log(drawerIsOpen)
 
   const openDrawerHandler = () => {
     setDrawerIsOpen(true);

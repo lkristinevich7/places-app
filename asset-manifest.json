@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/places-app/static/css/main.71a0e00d.chunk.css",
-    "main.js": "/places-app/static/js/main.324db78c.chunk.js",
-    "main.js.map": "/places-app/static/js/main.324db78c.chunk.js.map",
+    "main.js": "/places-app/static/js/main.e9375147.chunk.js",
+    "main.js.map": "/places-app/static/js/main.e9375147.chunk.js.map",
     "runtime-main.js": "/places-app/static/js/runtime-main.3202b7e9.js",
     "runtime-main.js.map": "/places-app/static/js/runtime-main.3202b7e9.js.map",
     "static/js/2.215f8639.chunk.js": "/places-app/static/js/2.215f8639.chunk.js",
     "static/js/2.215f8639.chunk.js.map": "/places-app/static/js/2.215f8639.chunk.js.map",
     "index.html": "/places-app/index.html",
-    "precache-manifest.f81e7bd3525e1f41d5046974a5e53982.js": "/places-app/precache-manifest.f81e7bd3525e1f41d5046974a5e53982.js",
+    "precache-manifest.b63bbf348b38a5a34a64395f109cd030.js": "/places-app/precache-manifest.b63bbf348b38a5a34a64395f109cd030.js",
     "service-worker.js": "/places-app/service-worker.js",
     "static/css/main.71a0e00d.chunk.css.map": "/places-app/static/css/main.71a0e00d.chunk.css.map",
     "static/js/2.215f8639.chunk.js.LICENSE.txt": "/places-app/static/js/2.215f8639.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3202b7e9.js",
     "static/js/2.215f8639.chunk.js",
     "static/css/main.71a0e00d.chunk.css",
-    "static/js/main.324db78c.chunk.js"
+    "static/js/main.e9375147.chunk.js"
   ]
 }

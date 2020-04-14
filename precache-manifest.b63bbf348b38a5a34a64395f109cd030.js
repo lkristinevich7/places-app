@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2c0f694eb2c24ca94d39ee0bb0802adc",
+    "revision": "68a2b82650e039ba5fd7c619f82c83a9",
     "url": "/places-app/index.html"
   },
   {
-    "revision": "a65840217eb0b658b0f7",
+    "revision": "3123843d9c293a7875d2",
     "url": "/places-app/static/css/main.71a0e00d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/places-app/static/js/2.215f8639.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a65840217eb0b658b0f7",
-    "url": "/places-app/static/js/main.324db78c.chunk.js"
+    "revision": "3123843d9c293a7875d2",
+    "url": "/places-app/static/js/main.e9375147.chunk.js"
   },
   {
     "revision": "ba307771316435cfc202",
